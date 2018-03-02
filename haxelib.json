@@ -1,0 +1,12 @@
+{
+    "name": "externtype",
+    "url": "https://github.com/DenkiYagi/externtype",
+    "license": "Apache",
+    "tags": ["haxe", "js"],
+    "description": "Haxe additional extern types",
+    "version": "1.0.0",
+    "classPath": "src/",
+    "releasenote": "1.0.0",
+    "contributors": ["terurou"],
+    "dependencies": {}
+}
