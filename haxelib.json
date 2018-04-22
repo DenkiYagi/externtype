@@ -2,7 +2,7 @@
     "name": "externtype",
     "url": "https://github.com/DenkiYagi/externtype",
     "license": "Apache",
-    "tags": ["haxe", "js"],
+    "tags": ["haxe", "extern", "js"],
     "description": "Additional extern types for Haxe",
     "version": "1.0.0",
     "classPath": "src/",
