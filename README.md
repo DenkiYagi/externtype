@@ -11,7 +11,7 @@ haxelib install externtype
 `Mixed2` is the same as `haxe.extern.EitherType`.
 
 ### ValueOrArray
-`ValueOrArray<T>` is the same as `haxe.extern.EitherType<T, Array<T>>`.
+`ValueOrArray<T>` is a type that like as `haxe.extern.EitherType<T, Array<T>>`.
 
 ### ValueOrFunction
 `ValueOrFunction<T>` is the same as `haxe.extern.EitherType<T, Void -> T>`.
