@@ -4,7 +4,7 @@
     "license": "Apache",
     "tags": ["haxe", "extern", "js"],
     "description": "Additional extern types for Haxe",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "classPath": "src/",
     "releasenote": "Update ValueOrArray<T>.",
     "contributors": ["terurou"],
