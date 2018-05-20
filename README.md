@@ -7,7 +7,7 @@ haxelib install externtype
 
 ## API
 ### Mixed2 - Mixed5
-`Mixed[2-5]` can have any value of several different types.
+`Mixed[2-10]` can have any value of several different types.
 `Mixed2` is the same as `haxe.extern.EitherType`.
 
 ### ValueOrArray
