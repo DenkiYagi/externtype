@@ -1,6 +1,6 @@
 package externtype;
 
-abstract Mixed5<T1, T2, T3, T4, T5, T6, T7, T8, T9>(Dynamic)
+abstract Mixed9<T1, T2, T3, T4, T5, T6, T7, T8, T9>(Dynamic)
     from T1 to T1
     from T2 to T2 
     from T3 to T3 
